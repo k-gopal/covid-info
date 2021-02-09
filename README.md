@@ -1,3 +1,13 @@
+# corona-virus-tracker
+An app which tracks the information on Coivd-19.
+
+
+
+## Find the live version on below ink.
+### [Covid-19 Tracker](https://covid-19-trackinfo.netlify.app/)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
